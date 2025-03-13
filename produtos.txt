@@ -1,0 +1,9 @@
+codigo, nome, preco
+1, Água, 3.00
+2, Refri, 5.00
+3, Café, 4.00
+4, Chá, 4.00
+5, Energético, 10.00
+6, Cerveja, 11.00
+7, Vinho Lata, 15.00
+8, Champanhe, 29.70

@@ -1,0 +1,11 @@
+dia inicio, dia final, cliente, quarto, status
+20-10-2024, 31-10-2024, Frank Vega, 4, a
+10-10-2024, 28-10-2024, Gabriel, 1, a
+1-11-2024, 7-11-2024, Rafa, 10, i
+18-10-2024, 25-10-2024, john smith, 7, i
+20-10-2024, 30-10-2024, Emily Davis, 5, i
+22-10-2024, 28-10-2024, Michael Johnson, 3, a
+23-10-2024, 01-11-2024, Sarah Wilson, 9, a
+19-10-2024, 27-10-2024, David Brown, 2, a
+21-11-2024, 29-11-2024, Olivia Garcia, 1, a
+24-11-2024, 30-11-2024, James Martinez, 3, a
